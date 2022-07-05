@@ -1,4 +1,4 @@
-#include <bits/stdc+.h>
+#include<bits/stdc++.h>
 
 #define ll long long
 #define ld long double
@@ -11,6 +11,9 @@ int Answer;
 
 int main(int argc, char** argv)
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL); cout.tie(NULL);
+    
 	int T, test_case;
 	
 	cin >> T;
